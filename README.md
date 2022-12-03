@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SreenivasNaik
 - 👀 I’m interested in Scala,Java,Play,Akka, Spring,Kafka
-- 🌱 I’m currently learning Akka
+- 🌱 
 - 📫 How to reach me at https://www.linkedin.com/in/sreenivasnaikms
 
 <!---
